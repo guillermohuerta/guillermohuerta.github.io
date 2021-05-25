@@ -65,6 +65,15 @@ body {
     text-transform: uppercase;
 }
 
+.link-es a{
+    color: #777;
+    font-size: 14.5px;
+}
+
+.link-es{
+    padding-top: 6px;
+}
+
 #About button{
     font-size: 14px;
 }
